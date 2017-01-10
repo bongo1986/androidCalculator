@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">calculator</string>
+    <string name="date_error">Could not retrieve current date</string>
+    <string name="calculationError">Error occurred while performing calculation</string>
+    <string name="please_wait">Please wait</string>
+</resources>
