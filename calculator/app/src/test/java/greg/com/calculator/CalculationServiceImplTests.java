@@ -75,7 +75,7 @@ public class CalculationServiceImplTests {
 
     }
     @Test
-    public void performCalculation_canSaveCalculationOnServer_operationFails() {
+    public void performCalculation_cantSaveCalculationOnServer_operationFails() {
         //Arrange
         TestScheduler testScheduler = new TestScheduler();
         TestSubscriber<Double> testSubscriber = TestSubscriber.create();
